@@ -23,13 +23,13 @@
 - Cooldown protection to prevent double sends
 
 ## Parts Needed
-Raspberry Pi Pico W or Pico 2 W	Both compatible
-IR LED 940 nm recommended
-2N2222 NPN transistor
-82 Ω resistor
-470 Ω resistor
-Breadboard / PCB	Optional
-Jumper wires	Depends on Breadboard/PCB
+- Raspberry Pi Pico W or Pico 2 W	Both compatible
+- IR LED 940 nm recommended
+- 2N2222 NPN transistor
+- 82 Ω resistor
+- 470 Ω resistor
+- Breadboard / PCB	Optional
+- Jumper wires	Depends on Breadboard/PCB
 ## Setup
 
 1. Flash MicroPython for Pico W / Pico 2 W, I suggest using Thonny
