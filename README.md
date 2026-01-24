@@ -56,19 +56,9 @@ Fixes the “turns on then off” issue I ran into previously with the power IR 
 
 ## HTTP Endpoints
 
-Each endpoint sends one IR command with cooldown protection.
+Each endpoint sends one IR command with Double-Send protection.
 
-Endpoint	Action
-/power	Power toggle
-/fan_up	Fan speed +
-/fan_down	Fan speed −
-/heat_up	Heat +
-/heat_down	Heat −
-/cool	Cool mode
-/oscillate	Oscillation
-/timer	Timer
-/wide	Wide airflow
-/narrow	Narrow airflow
+
 
 | Endpoint  | Action |
 | ------------- | ------------- |
