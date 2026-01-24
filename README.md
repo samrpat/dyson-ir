@@ -70,6 +70,19 @@ Endpoint	Action
 /wide	Wide airflow
 /narrow	Narrow airflow
 
+| Endpoint  | Action |
+| ------------- | ------------- |
+| /power  | Power toggle  |
+| /fan_up  | Fan speed +  |
+| /fan_down  | Fan speed -  |
+| /heat_up  | Heat +  |
+| /heat_down  | Heat -  |
+| /cool | Cool mode  |
+| /oscillate  | Oscillation |
+| /timer  | Timer  |
+| /wide  | Wide Airflow  |
+| /narrow  | Narrow Airflow  |
+
 
 
 
