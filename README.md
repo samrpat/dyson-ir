@@ -1,4 +1,5 @@
 # dyson-ir
+https://github.com/user-attachments/assets/3cfbf777-da7c-4bbf-8bb9-5791ed1e42e0
 ## A raspberry pi pico code + pcb to control a Dyson AM09, providing a web ui for controls and endpoints for smart home control.
 ## Features
 
