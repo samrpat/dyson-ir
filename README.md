@@ -74,7 +74,6 @@ Each endpoint sends one IR command with Double-Send protection.
 | /wide  | Wide Airflow  |
 | /narrow  | Narrow Airflow  |
 
-
-
+![Image](https://github.com/user-attachments/assets/ff17c217-09e2-4ab5-9914-1eb546d8db68)
 
 
