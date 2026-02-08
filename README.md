@@ -55,6 +55,13 @@ Prevents Dyson from interpreting one press as two
 
 Fixes the “turns on then off” issue I ran into previously with the power IR code
 
+## Web UI
+A dashboard will be hosted when the Pico is connected to wifi and power. 
+
+Themed after a real AM09 dyson remote, with a blue to red gradient background.
+
+It provides buttons to send IR commands for all functions of the fan, triggering the same actions as the HTTP endpoints shown below.
+
 ## HTTP Endpoints
 
 Each endpoint sends one IR command with Double-Send protection.
